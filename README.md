@@ -1,2 +1,3 @@
-# Titianic
+# Titanic
 Machine Learning
+
